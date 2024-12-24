@@ -1,1 +1,5 @@
-# README.md
+With over 11 years of experience as a Software Architect and Technical Leader, I specialize in Enterprise Architecture Design and .NET Core & ASP.NET MVC Development to create scalable and efficient solutions that meet complex business needs. My expertise in Azure Cloud Solutions and Service-Oriented Architecture (SOA) enables me to drive digital transformation through high-performance systems built for reliability and growth. 
+
+I am skilled in RESTful & SOAP API Development and SQL Server & Database Management, essential for creating seamless integrations and data-driven applications. My role goes beyond development—I bring value by aligning technology with business strategies, ensuring every solution is sustainable, cost-effective, and built to scale. I work closely with cross-functional teams, assisting in budgeting, resource planning, and risk analysis to ensure we deliver on time. Known for my strong collaboration skills, and my commitment to continuous improvement means I'm always exploring new ways to enhance efficiency and reliability.
+
+I’m passionate about driving digital transformation through technology, bringing both technical expertise and business acumen to the table. Let's connect to explore how I can help your organization achieve its next breakthrough.
